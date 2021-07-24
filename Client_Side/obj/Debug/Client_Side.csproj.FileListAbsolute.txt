@@ -1,0 +1,10 @@
+C:\Users\DİLAN ŞAŞKIN\Source\Repos\Client_Side\bin\Debug\Client_Side.exe.config
+C:\Users\DİLAN ŞAŞKIN\Source\Repos\Client_Side\bin\Debug\Client_Side.exe
+C:\Users\DİLAN ŞAŞKIN\Source\Repos\Client_Side\bin\Debug\Client_Side.pdb
+C:\Users\DİLAN ŞAŞKIN\Source\Repos\Client_Side\obj\Debug\Client_Side.csprojAssemblyReference.cache
+C:\Users\DİLAN ŞAŞKIN\Source\Repos\Client_Side\obj\Debug\Client_Side.Form1.resources
+C:\Users\DİLAN ŞAŞKIN\Source\Repos\Client_Side\obj\Debug\Client_Side.Properties.Resources.resources
+C:\Users\DİLAN ŞAŞKIN\Source\Repos\Client_Side\obj\Debug\Client_Side.csproj.GenerateResource.cache
+C:\Users\DİLAN ŞAŞKIN\Source\Repos\Client_Side\obj\Debug\Client_Side.csproj.CoreCompileInputs.cache
+C:\Users\DİLAN ŞAŞKIN\Source\Repos\Client_Side\obj\Debug\Client_Side.exe
+C:\Users\DİLAN ŞAŞKIN\Source\Repos\Client_Side\obj\Debug\Client_Side.pdb
